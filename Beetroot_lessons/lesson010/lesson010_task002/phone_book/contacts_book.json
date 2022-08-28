@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f7ecb4a7-6d88-4886-9f3e-39390085c2d5",
+    "name": "Anna Murphy",
+    "email": "anna.murphy@example.com",
+    "phone": "(866) 752-4775",
+    "address": "9945 Camden Ave, Canada",
+    "notes": "😁"
+  },
+  {
+    "id": "4ad6d4c0-4685-4a51-8f7f-0f7c687b6441",
+    "name": "Hugh Moreno",
+    "email": "hugh.moreno@example.com",
+    "phone": "(420) 236-4802",
+    "address": "5578 Mockingbird Hill, Canada",
+    "notes": "Man"
+  },
+  {
+    "id": "63a2e1ae-2503-474f-8c36-7d0c15b18639",
+    "name": "Reginald Day",
+    "email": "reginald.day@example.com",
+    "phone": "(443) 783-8491",
+    "address": "6657 Wycliff Ave, USA",
+    "notes": "💀"
+  }
+]

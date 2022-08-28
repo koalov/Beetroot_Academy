@@ -1,0 +1,9 @@
+num1 = 100500
+num2 = 200
+print('x + y = ', num1 + num2)
+print(f'x - y = {num1 - num2}')
+print('x / y = {}'.format(num1 / num2))
+print('x * y = %d' % (num1 * num2))
+print('x ^ 5 = ', num1 ** 5)
+print(f'|y - x| = {abs(num2 - num1)}')
+print('x // y = {}'.format(num1 // num2))
